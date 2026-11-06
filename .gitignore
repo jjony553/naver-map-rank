@@ -1,0 +1,12 @@
+node_modules/
+.npm-cache/
+*.log
+test-results/
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pip-cache/
+.setup-state.json
+.openai/
